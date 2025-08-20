@@ -1,9 +1,5 @@
 # Interview_questions_scenario
 
-Perfect, Sandeep 👍
-Let’s do this smart: I’ll give you **answers in “Interview-Ready” format** → **Point-wise, Story-driven, Memorable**.
-You don’t want textbook answers; you want to **recall under pressure**. So I’ll give you:
-
 ✅ **Quick Headline (to remember)**
 ✅ **Bullet points (what to say in interview)**
 ✅ **Mini real-time story (to show impact)**
